@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Mario
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Mario\ here.\r\n\ Mario\ is\ the\ character\ that\ the\ player\ controls\r\n\ Mario's\ goal\ is\ to\ run\ and\ jump\ across\ platforms\ to\ reach\ the\ end\ goal\ (flag)\r\n\ Daniel\ Wei\r\n\ Jan\ 18\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=Mario()
+comment3.params=upSpeed
+comment3.target=void\ jump(int)
+comment4.params=
+comment4.target=java.lang.Object\ downCollision()
+comment5.params=
+comment5.target=java.lang.Object\ upCollision()
+comment6.params=
+comment6.target=java.lang.Object\ rightCollision()
+comment7.params=
+comment7.target=java.lang.Object\ leftCollision()
+comment8.params=
+comment8.target=void\ platMoveState()
+numComments=9

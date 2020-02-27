@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Track2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Track2\ here.\r\n\ Switches\ menu\ soudntrack\ to\ Soundtrack\ 2\ upon\ collision\ with\ Mario\r\n\ Daniel\ Wei\r\n\ Jan\ 18\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=Track2()
+numComments=3

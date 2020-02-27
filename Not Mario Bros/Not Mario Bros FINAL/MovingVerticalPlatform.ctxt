@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MovingVerticalPlatform
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MovingVerticalPlatform\ here.\r\n\ Moving\ Platform\ that\ moves\ up\ and\ down\r\n\ Daniel\ Wei\r\n\ Jan\ 18\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=startY
+comment2.target=MovingVerticalPlatform(int)
+comment3.params=
+comment3.target=java.lang.String\ moveDir()
+comment4.params=
+comment4.target=void\ goDown()
+numComments=5

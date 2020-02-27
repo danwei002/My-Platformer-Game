@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=MusicBtn
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MusicBtn\ here.\r\n\ Allows\ the\ user\ to\ switch\ music\ in\ the\ menu\ screen\r\n\ Daniel\ Wei\r\n\ Jan\ 18\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=MusicBtn()
+numComments=3

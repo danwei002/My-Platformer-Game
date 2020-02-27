@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MovingPlatform
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MovingPlatform\ here.\r\n\ This\ is\ the\ horizontal\ moving\ platform\ seen\ in\ some\ levels\r\n\ Daniel\ Wei\r\n\ Jan\ 18\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=startX
+comment2.target=MovingPlatform(int)
+comment3.params=
+comment3.target=java.lang.String\ moveDir()
+comment4.params=
+comment4.target=java.lang.Object\ upCollision()
+numComments=5

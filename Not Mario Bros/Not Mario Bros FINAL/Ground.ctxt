@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ground
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ground\ here.\r\n\ This\ is\ the\ flat\ ground\ that\ stops\ Mario\ from\ falling\ off\ the\ bottom\ of\ the\ screen\r\n\ It\ serves\ as\ a\ starting\ point\ for\ Mario\ to\ start\ platforming\r\n\ Daniel\ Wei\r\n\ Jan\ 18\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=Ground()
+numComments=3
